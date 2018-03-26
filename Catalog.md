@@ -13,7 +13,7 @@
 ### 1.5.2 事务的ACID属性
 ### 1.5.3 大事务
 
-[什么影响了数据库查询速度](https://segmentfault.com/a/1190000013672421#articleHeader0)
+[*什么影响了数据库查询速度*](https://segmentfault.com/a/1190000013672421#articleHeader0)
 
 # 第2章 什么影响了MySQL性能
 ## 2.1 影响性能的几个方面
