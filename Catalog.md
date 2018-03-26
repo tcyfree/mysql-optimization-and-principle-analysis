@@ -1,6 +1,7 @@
 # 目录大纲
 
 # 第1章 什么影响了数据库查询速度
+[**什么影响了数据库查询速度**](https://segmentfault.com/a/1190000013672421#articleHeader0)
 ## 1.1 影响数据库查询速度的四个因素
 ## 1.2 风险分析
 ## 1.3 网卡流量：如何避免无法连接数据库的情况
@@ -13,9 +14,11 @@
 ### 1.5.2 事务的ACID属性
 ### 1.5.3 大事务
 
-[**什么影响了数据库查询速度**](https://segmentfault.com/a/1190000013672421#articleHeader0)
+
 
 # 第2章 什么影响了MySQL性能
+[**什么影响了MySQL性能**](https://segmentfault.com/a/1190000013672421#articleHeader12)
+
 ## 2.1 影响性能的几个方面
 ## 2.2 MySQL体系结构
 ## 2.3 InnoDB存储引擎
@@ -35,9 +38,10 @@
 ### 2.7.1 内存配置相关参数
 ## 2.8 性能优化顺序
 
-[**什么影响了MySQL性能**](https://segmentfault.com/a/1190000013672421#articleHeader12)
+
 
 # 第3章 MySQL中字段类型与合理的选择字段类型
+[**MySQL中字段类型与合理的选择字段类型**](https://segmentfault.com/a/1190000010012140)
 
 ## 3.1 字段类型
 ### 3.1.1 数值
@@ -50,9 +54,11 @@
 
 ## 3.3 总结：合理的选择数据类型
 
-[**MySQL中字段类型与合理的选择字段类型**](https://segmentfault.com/a/1190000010012140)
+
 
 # 第4章 数据库结构优化
+[**数据库结构优化**](https://segmentfault.com/a/1190000013746118#articleHeader1)
+
 ## 4.1 数据库结构优化目的
 ## 4.2 数据库结构设计步骤
 ## 4.3 数据库范式设计与反范式化
@@ -66,9 +72,9 @@
 
 ## 4.4 物理设计
 
-[**数据库结构优化**](https://segmentfault.com/a/1190000013746118#articleHeader1)
-
 # 第5章 数据库索引优化
+[**数据库索引优化**](https://segmentfault.com/a/1190000013746118#articleHeader8)
+
 ## 5.1 数据结构及算法基础
 ### 5.1.1 索引的本质
 ### 5.1.2 B-Tree和B+Tree
@@ -96,9 +102,9 @@
 ### 5.7.2 删除冗余索引
 ## 5.8 InnoDB的主键选择与插入优化
 
-[**数据库索引优化**](https://segmentfault.com/a/1190000013746118#articleHeader8)
-
 # 六 、SQL查询优化
+[**SQL查询优化**](https://segmentfault.com/a/1190000013781544#articleHeader1)
+
 ## 6.1 获取有性能问题SQL的三种方式
 ### 6.1.2 慢查日志分析工具
 ### 6.1.3 实时获取有性能问题的SQL
@@ -116,12 +122,12 @@
 ### 6.6.2 大表的结构修改
 ### 6.6.3 优化not in 和 <> 查询
 
-[**SQL查询优化**](https://segmentfault.com/a/1190000013781544#articleHeader1)
-
 # 七、分库分表
+
+[**分库分表**](https://segmentfault.com/a/1190000013781544#articleHeader18)
+
 ## 7.1 分库分表的几种方式
 ### 7.1.1 把一个实例中的多个数据库拆分到不同实例（集群）
 ### 7.1.2 把一个库中的表分离到不同的数据库中
 ### 7.1.3 数据库分片
 
-[**分库分表**](https://segmentfault.com/a/1190000013781544#articleHeader18)
