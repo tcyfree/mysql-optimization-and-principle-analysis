@@ -35,7 +35,7 @@
 ### 2.7.1 内存配置相关参数
 ## 2.8 性能优化顺序
 
-[什么影响了MySQL性能](https://segmentfault.com/a/1190000013672421#articleHeader12)
+[**什么影响了MySQL性能**](https://segmentfault.com/a/1190000013672421#articleHeader12)
 
 # 第3章 MySQL中字段类型与合理的选择字段类型
 
@@ -50,7 +50,7 @@
 
 ## 3.3 总结：合理的选择数据类型
 
-[MySQL中字段类型与合理的选择字段类型](https://segmentfault.com/a/1190000010012140)
+[**MySQL中字段类型与合理的选择字段类型**](https://segmentfault.com/a/1190000010012140)
 
 # 第4章 数据库结构优化
 ## 4.1 数据库结构优化目的
@@ -62,11 +62,11 @@
 ### 4.3.4 反范式化
 ### 4.3.5 范式化设计和反范式化设计的优缺点
 
-[数据库逻辑设计之三大范式通俗理解](https://segmentfault.com/a/1190000013695030)
+[**数据库逻辑设计之三大范式通俗理解**](https://segmentfault.com/a/1190000013695030)
 
 ## 4.4 物理设计
 
-[数据库结构优化](https://segmentfault.com/a/1190000013746118#articleHeader1)
+[**数据库结构优化**](https://segmentfault.com/a/1190000013746118#articleHeader1)
 
 # 第5章 数据库索引优化
 ## 5.1 数据结构及算法基础
@@ -96,7 +96,7 @@
 ### 5.7.2 删除冗余索引
 ## 5.8 InnoDB的主键选择与插入优化
 
-[数据库索引优化](https://segmentfault.com/a/1190000013746118#articleHeader8)
+[**数据库索引优化**](https://segmentfault.com/a/1190000013746118#articleHeader8)
 
 # 六 、SQL查询优化
 ## 6.1 获取有性能问题SQL的三种方式
@@ -116,7 +116,7 @@
 ### 6.6.2 大表的结构修改
 ### 6.6.3 优化not in 和 <> 查询
 
-[SQL查询优化](https://segmentfault.com/a/1190000013781544#articleHeader1)
+[**SQL查询优化**](https://segmentfault.com/a/1190000013781544#articleHeader1)
 
 # 七、分库分表
 ## 7.1 分库分表的几种方式
@@ -124,4 +124,4 @@
 ### 7.1.2 把一个库中的表分离到不同的数据库中
 ### 7.1.3 数据库分片
 
-[分库分表](https://segmentfault.com/a/1190000013781544#articleHeader18)
+[**分库分表**](https://segmentfault.com/a/1190000013781544#articleHeader18)
