@@ -100,7 +100,7 @@
         *  5.7.2 删除冗余索引
     *  5.8 InnoDB的主键选择与插入优化
 
-*  六 、[**SQL查询优化**](https://segmentfault.com/a/1190000013781544#articleHeader1)
+*  第6章 [**SQL查询优化**](https://segmentfault.com/a/1190000013781544#articleHeader1)
 
     *  6.1 获取有性能问题SQL的三种方式
         *  6.1.2 慢查日志分析工具
@@ -119,7 +119,7 @@
         *  6.6.2 大表的结构修改
         *  6.6.3 优化not in 和 <> 查询
 
-* 七、常见其它优化
+* 第7章 常见其它优化
     * 7.1 [null与not null和null与空值''的区别](https://segmentfault.com/a/1190000009540449)
         * 7.1.1 探究之null与not null
         * 7.1.2 null和空值''的区别
@@ -136,7 +136,7 @@
             * SQL语句长度限制
             * 事务需要控制大小
 
-*  八、[**分库分表**](https://segmentfault.com/a/1190000013781544#articleHeader18)
+*  第8章 [**分库分表**](https://segmentfault.com/a/1190000013781544#articleHeader18)
     *  8.1 分库分表的几种方式
         *  8.1.1 把一个实例中的多个数据库拆分到不同实例（集群）
         *  8.1.2 把一个库中的表分离到不同的数据库中
