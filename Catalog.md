@@ -136,7 +136,7 @@
             * SQL语句长度限制
             * 事务需要控制大小
 
-* 第8章 [JOIN图解](https://segmentfault.com/a/1190000008897103)
+* 第8章 [JOIN图解、原理和优化](https://segmentfault.com/a/1190000008897103)
     * 8.1 如何正确的使用JOIN从句
     * 8.2 SQL标准中JOIN类型图解
         * 8.2.1 内连接(INNER)
