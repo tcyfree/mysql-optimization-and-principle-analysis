@@ -149,8 +149,8 @@
         * 8.2.3 左外连接(LEFT OUTER)
         * 8.2.4 右外连接(RIGHT OUTER)
         * 8.2.5 交叉连接(CROSS)
-    * 8.3 [JOIN原理](https://www.cnblogs.com/shengdimaya/p/7123069.html)
-    * 8.4 [JOIN语句的优化](https://blog.csdn.net/tonyxf121/article/details/7796657)
+    * 8.3 [JOIN原理]()
+    * 8.4 [JOIN语句的优化]()
     
 *  第9章 [**分库分表**](https://segmentfault.com/a/1190000013781544#articleHeader18)
     *  9.1 分库分表的几种方式
