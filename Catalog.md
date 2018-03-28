@@ -136,9 +136,20 @@
             * SQL语句长度限制
             * 事务需要控制大小
 
-*  第8章 [**分库分表**](https://segmentfault.com/a/1190000013781544#articleHeader18)
-    *  8.1 分库分表的几种方式
-        *  8.1.1 把一个实例中的多个数据库拆分到不同实例（集群）
-        *  8.1.2 把一个库中的表分离到不同的数据库中
-        *  8.1.3 数据库分片
+* 第8章 [JOIN图解](https://segmentfault.com/a/1190000008897103)
+    * 8.1 如何正确的使用JOIN从句
+    * 8.2 SQL标准中JOIN类型图解
+        * 8.2.1 内连接(INNER)
+        * 8.2.2 全外连接(FULL OUTER)
+        * 8.2.3 左外连接(LEFT OUTER)
+        * 8.2.4 右外连接(RIGHT OUTER)
+        * 8.2.5 交叉连接(CROSS)
+    * 8.3 [JOIN原理](https://www.cnblogs.com/shengdimaya/p/7123069.html)
+    * 8.4 [JOIN语句的优化](https://blog.csdn.net/tonyxf121/article/details/7796657)
+    
+*  第9章 [**分库分表**](https://segmentfault.com/a/1190000013781544#articleHeader18)
+    *  9.1 分库分表的几种方式
+        *  9.1.1 把一个实例中的多个数据库拆分到不同实例（集群）
+        *  9.1.2 把一个库中的表分离到不同的数据库中
+        *  9.1.3 数据库分片
 
