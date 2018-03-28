@@ -116,8 +116,8 @@
     *  6.2 优化神器 Explain 执行计划使用分析  
         * 6.2.1 使用 Navicat
         * 6.2.2 Explain 语法、意义
-            * explain 语法
-            * explain desc
+            * Explain 语法
+            * Explain desc
             * Explain 字段反馈的建议
         * 6.2.3 关于key_len的计算
         * 6.2.4 关于type的一些知识
