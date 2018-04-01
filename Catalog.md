@@ -151,17 +151,27 @@
         * 7.3.4 注意事项
             * SQL语句长度限制
             * 事务需要控制大小
+    * 7.4 [JOIN图解、原理和优化](https://segmentfault.com/a/1190000008897103)
+        * 7.4.1 如何正确的使用JOIN从句
+        * 7.4.2 SQL标准中JOIN类型图解
+            * 7.4.2.1 内连接(INNER)
+            * 7.4.2.2 全外连接(FULL OUTER)
+            * 7.4.2.3 左外连接(LEFT OUTER)
+            * 7.4.2.4 右外连接(RIGHT OUTER)
+            * 7.4.2.5 交叉连接(CROSS)
+        * 7.4.3 JOIN原理
+        * 7.4.4 JOIN语句的优化
 
-* 第8章 [JOIN图解、原理和优化](https://segmentfault.com/a/1190000008897103)
-    * 8.1 如何正确的使用JOIN从句
-    * 8.2 SQL标准中JOIN类型图解
-        * 8.2.1 内连接(INNER)
-        * 8.2.2 全外连接(FULL OUTER)
-        * 8.2.3 左外连接(LEFT OUTER)
-        * 8.2.4 右外连接(RIGHT OUTER)
-        * 8.2.5 交叉连接(CROSS)
-    * 8.3 JOIN原理
-    * 8.4 JOIN语句的优化
+* 第8章 [读写分离]()
+    * 8.1 xxx
+    * 8.2 xxx
+        * 8.2.1 xxx
+        * 8.2.2 xxx
+        * 8.2.3 xxx
+        * 8.2.4 xxx
+        * 8.2.5 xxx
+    * 8.3 xxx
+    * 8.4 xxx
     
 *  第9章 [**分库分表**](https://segmentfault.com/a/1190000013781544#articleHeader18)
     *  9.1 分库分表的几种方式
