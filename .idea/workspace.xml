@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1006c07a-6b3b-45a5-b9a0-8ee9068ae2dc" name="Default" comment="">
+    <list default="true" id="1006c07a-6b3b-45a5-b9a0-8ee9068ae2dc" name="Default" comment="添加 9.2 表的垂直拆分和水平拆分">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
@@ -18,8 +18,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="1848">
-                <caret line="56" column="421" lean-forward="true" selection-start-line="56" selection-start-column="421" selection-end-line="56" selection-end-column="421" />
+              <first_editor relative-caret-position="66">
+                <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -30,9 +30,9 @@
       <file leaf-file-name="Catalog.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Catalog.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="471">
-                <caret line="124" column="8" lean-forward="true" selection-start-line="124" selection-start-column="4" selection-end-line="124" selection-end-column="8" />
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="2948">
+                <caret line="134" column="24" lean-forward="false" selection-start-line="134" selection-start-column="24" selection-end-line="134" selection-end-column="24" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -50,6 +50,8 @@
       <find>4</find>
       <find>5</find>
       <find>6</find>
+      <find>]</find>
+      <find>MYSQL</find>
     </findStrings>
     <replaceStrings>
       <replace>3</replace>
@@ -57,6 +59,7 @@
       <replace>5</replace>
       <replace>6</replace>
       <replace>7</replace>
+      <replace>MySQL</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -81,8 +84,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1912" />
-    <option name="y" value="-8" />
+    <option name="x" value="-21" />
+    <option name="y" value="1" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -101,6 +104,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -112,8 +117,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -146,119 +149,18 @@
       <option name="presentableId" value="Default" />
       <updated>1522046788876</updated>
       <workItem from="1522046790120" duration="7844000" />
-      <workItem from="1522056220190" duration="4225000" />
-    </task>
-    <task id="LOCAL-00001" summary="添加前两章内容目录">
-      <created>1522048434782</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1522048434782</updated>
-    </task>
-    <task id="LOCAL-00002" summary="将目录大纲和相关介绍分开">
-      <created>1522049615754</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1522049615754</updated>
-    </task>
-    <task id="LOCAL-00003" summary="添加目录大纲导航">
-      <created>1522049710726</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1522049710726</updated>
-    </task>
-    <task id="LOCAL-00004" summary="添加导航URI">
-      <created>1522049848903</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1522049848903</updated>
-    </task>
-    <task id="LOCAL-00005" summary="URI打开新标签">
-      <created>1522049965706</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1522049965706</updated>
-    </task>
-    <task id="LOCAL-00006" summary="URI打开新标签">
-      <created>1522050058958</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1522050058958</updated>
-    </task>
-    <task id="LOCAL-00007" summary="完善目录结构">
-      <created>1522050919805</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1522050919805</updated>
-    </task>
-    <task id="LOCAL-00008" summary="锁">
-      <created>1522054358833</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1522054358833</updated>
-    </task>
-    <task id="LOCAL-00009" summary="update">
-      <created>1522054521263</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1522054521263</updated>
-    </task>
-    <task id="LOCAL-00010" summary="update">
-      <created>1522054580287</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1522054580287</updated>
-    </task>
-    <task id="LOCAL-00011" summary="update">
-      <created>1522054703665</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1522054703665</updated>
-    </task>
-    <task id="LOCAL-00012" summary="update">
-      <created>1522054803508</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1522054803508</updated>
-    </task>
-    <task id="LOCAL-00013" summary="范式化设计">
-      <created>1522055217168</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1522055217168</updated>
-    </task>
-    <task id="LOCAL-00014" summary="范式化设计">
-      <created>1522055345898</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1522055345898</updated>
-    </task>
-    <task id="LOCAL-00015" summary="update">
-      <created>1522055844045</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1522055844045</updated>
-    </task>
-    <task id="LOCAL-00016" summary="update">
-      <created>1522056406493</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1522056406493</updated>
+      <workItem from="1522056220190" duration="4269000" />
+      <workItem from="1522116833084" duration="8224000" />
+      <workItem from="1522204459909" duration="12936000" />
+      <workItem from="1522290268227" duration="14499000" />
+      <workItem from="1522399941279" duration="1697000" />
+      <workItem from="1522632281616" duration="11030000" />
+      <workItem from="1522804780197" duration="823000" />
+      <workItem from="1522888222569" duration="19000" />
+      <workItem from="1523259615344" duration="10098000" />
+      <workItem from="1523272227010" duration="14826000" />
+      <workItem from="1523408759946" duration="669000" />
+      <workItem from="1524100282811" duration="42000" />
     </task>
     <task id="LOCAL-00017" summary="添加个章节链接">
       <created>1522057573278</created>
@@ -302,26 +204,328 @@
       <option name="project" value="LOCAL" />
       <updated>1522058466317</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="update">
+      <created>1522060773262</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1522060773262</updated>
+    </task>
+    <task id="LOCAL-00024" summary="update">
+      <created>1522117600346</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1522117600346</updated>
+    </task>
+    <task id="LOCAL-00025" summary="update">
+      <created>1522117846217</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1522117846218</updated>
+    </task>
+    <task id="LOCAL-00026" summary="update">
+      <created>1522119965063</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1522119965063</updated>
+    </task>
+    <task id="LOCAL-00027" summary="update">
+      <created>1522120161718</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1522120161718</updated>
+    </task>
+    <task id="LOCAL-00028" summary="update">
+      <created>1522120824944</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1522120824944</updated>
+    </task>
+    <task id="LOCAL-00029" summary="update">
+      <created>1522121429753</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1522121429753</updated>
+    </task>
+    <task id="LOCAL-00030" summary="update">
+      <created>1522121612574</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1522121612574</updated>
+    </task>
+    <task id="LOCAL-00031" summary="update">
+      <created>1522121665835</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1522121665835</updated>
+    </task>
+    <task id="LOCAL-00032" summary="update">
+      <created>1522123227748</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1522123227748</updated>
+    </task>
+    <task id="LOCAL-00033" summary="update">
+      <created>1522129766455</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1522129766455</updated>
+    </task>
+    <task id="LOCAL-00034" summary="add 第7章 常见其它优化">
+      <created>1522207199867</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1522207199867</updated>
+    </task>
+    <task id="LOCAL-00035" summary="update">
+      <created>1522207250814</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1522207250814</updated>
+    </task>
+    <task id="LOCAL-00036" summary="添加 第8章 JOIN图解、原理和优化">
+      <created>1522208697171</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1522208697171</updated>
+    </task>
+    <task id="LOCAL-00037" summary="添加 第8章 JOIN图解、原理和优化">
+      <created>1522208728515</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1522208728515</updated>
+    </task>
+    <task id="LOCAL-00038" summary="添加 4.4 物理设计：E-R图设计、数据建模和数据字典">
+      <created>1522212643752</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1522212643752</updated>
+    </task>
+    <task id="LOCAL-00039" summary="update">
+      <created>1522217177080</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1522217177080</updated>
+    </task>
+    <task id="LOCAL-00040" summary="添加 6.2 优化神器 Explain 执行计划使用分析">
+      <created>1522218111097</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1522218111097</updated>
+    </task>
+    <task id="LOCAL-00041" summary="添加 6.2 优化神器 Explain 执行计划使用分析">
+      <created>1522218188174</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1522218188174</updated>
+    </task>
+    <task id="LOCAL-00042" summary="添加 第10章 备份与恢复详解">
+      <created>1522220296459</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1522220296459</updated>
+    </task>
+    <task id="LOCAL-00043" summary="update">
+      <created>1522290354274</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1522290354274</updated>
+    </task>
+    <task id="LOCAL-00044" summary="添加 9.2 表的垂直拆分和水平拆分">
+      <created>1522291460638</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1522291460638</updated>
+    </task>
+    <task id="LOCAL-00045" summary="update">
+      <created>1522293233585</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1522293233585</updated>
+    </task>
+    <task id="LOCAL-00046" summary="update">
+      <created>1522303883445</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1522303883445</updated>
+    </task>
+    <task id="LOCAL-00047" summary="update">
+      <created>1522304422000</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1522304422000</updated>
+    </task>
+    <task id="LOCAL-00048" summary="update">
+      <created>1522305065745</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1522305065745</updated>
+    </task>
+    <task id="LOCAL-00049" summary="update">
+      <created>1522310339750</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1522310339751</updated>
+    </task>
+    <task id="LOCAL-00050" summary="添加 9.2 表的垂直拆分和水平拆分">
+      <created>1522311201056</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1522311201057</updated>
+    </task>
+    <task id="LOCAL-00051" summary="update">
+      <created>1522320177579</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1522320177579</updated>
+    </task>
+    <task id="LOCAL-00052" summary="添加 9.2 表的垂直拆分和水平拆分">
+      <created>1522320288376</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1522320288377</updated>
+    </task>
+    <task id="LOCAL-00053" summary="update">
+      <created>1522320338912</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1522320338912</updated>
+    </task>
+    <task id="LOCAL-00054" summary="update">
+      <created>1522320930274</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1522320930274</updated>
+    </task>
+    <task id="LOCAL-00055" summary="添加 第8章 MySQL主从复制和MyCat数据库中间件实现读写分离">
+      <created>1522638444137</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1522638444139</updated>
+    </task>
+    <task id="LOCAL-00056" summary="update">
+      <created>1522641285491</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1522641285491</updated>
+    </task>
+    <task id="LOCAL-00057" summary="更新 书名">
+      <created>1522641748665</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1522641748665</updated>
+    </task>
+    <task id="LOCAL-00058" summary="update">
+      <created>1522648884117</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1522648884118</updated>
+    </task>
+    <task id="LOCAL-00059" summary="更改标题为：《ＭySQL数据库原理、优化与实战》">
+      <created>1522804993548</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1522804993549</updated>
+    </task>
+    <task id="LOCAL-00060" summary="update 一、选题产生的背景、市场需求情况及产品定位">
+      <created>1523264014980</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1523264014981</updated>
+    </task>
+    <task id="LOCAL-00061" summary="更新：一、选题产生的背景、市场需求情况及产品定位">
+      <created>1523264650148</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1523264650148</updated>
+    </task>
+    <task id="LOCAL-00062" summary="更新：一、二、五">
+      <created>1523332574044</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1523332574045</updated>
+    </task>
+    <task id="LOCAL-00063" summary="修改格式">
+      <created>1523332856407</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1523332856407</updated>
+    </task>
+    <task id="LOCAL-00064" summary="update">
+      <created>1523335647163</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1523335647163</updated>
+    </task>
+    <task id="LOCAL-00065" summary="update">
+      <created>1523339662529</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1523339662529</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12069000" />
+    <option name="totallyTimeSpent" value="86976000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2101293" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19719827" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295063" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -346,6 +550,19 @@
     <MESSAGE value="锁" />
     <MESSAGE value="范式化设计" />
     <MESSAGE value="添加个章节链接" />
+    <MESSAGE value="add 第7章 常见其它优化" />
+    <MESSAGE value="添加 第8章 JOIN图解、原理和优化" />
+    <MESSAGE value="添加 4.4 物理设计：E-R图设计、数据建模和数据字典" />
+    <MESSAGE value="添加 6.2 优化神器 Explain 执行计划使用分析" />
+    <MESSAGE value="添加 第10章 备份与恢复详解" />
+    <MESSAGE value="添加 9.2 表的垂直拆分和水平拆分" />
+    <MESSAGE value="添加 第8章 MySQL主从复制和MyCat数据库中间件实现读写分离" />
+    <MESSAGE value="更新 书名" />
+    <MESSAGE value="更改标题为：《ＭySQL数据库原理、优化与实战》" />
+    <MESSAGE value="update 一、选题产生的背景、市场需求情况及产品定位" />
+    <MESSAGE value="更新：一、选题产生的背景、市场需求情况及产品定位" />
+    <MESSAGE value="更新：一、二、五" />
+    <MESSAGE value="修改格式" />
     <MESSAGE value="update" />
     <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
@@ -354,6 +571,248 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Catalog.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="2948">
+            <caret line="134" column="24" lean-forward="false" selection-start-line="134" selection-start-column="24" selection-end-line="134" selection-end-column="24" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Catalog.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="2948">
+            <caret line="134" column="24" lean-forward="false" selection-start-line="134" selection-start-column="24" selection-end-line="134" selection-end-column="24" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Catalog.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="2948">
+            <caret line="134" column="24" lean-forward="true" selection-start-line="134" selection-start-column="24" selection-end-line="134" selection-end-column="24" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Catalog.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="2926">
+            <caret line="133" column="24" lean-forward="false" selection-start-line="133" selection-start-column="24" selection-end-line="133" selection-end-column="24" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Catalog.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="2926">
+            <caret line="133" column="24" lean-forward="false" selection-start-line="133" selection-start-column="24" selection-end-line="133" selection-end-column="24" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Catalog.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="2926">
+            <caret line="133" column="24" lean-forward="true" selection-start-line="133" selection-start-column="24" selection-end-line="133" selection-end-column="24" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="968">
+            <caret line="44" column="300" lean-forward="true" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="300" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Catalog.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="2882">
+            <caret line="131" column="35" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="207" selection-end-column="8" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Catalog.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="3982">
+            <caret line="181" column="14" lean-forward="false" selection-start-line="181" selection-start-column="7" selection-end-line="181" selection-end-column="14" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Catalog.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="4246">
+            <caret line="193" column="72" lean-forward="true" selection-start-line="193" selection-start-column="72" selection-end-line="193" selection-end-column="72" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="1342">
+            <caret line="61" column="307" lean-forward="false" selection-start-line="61" selection-start-column="307" selection-end-line="61" selection-end-column="307" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Catalog.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="660">
+            <caret line="30" column="20" lean-forward="true" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Catalog.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="2728">
+            <caret line="124" column="8" lean-forward="true" selection-start-line="124" selection-start-column="4" selection-end-line="124" selection-end-column="8" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -378,9 +837,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Catalog.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="471">
-            <caret line="124" column="8" lean-forward="true" selection-start-line="124" selection-start-column="4" selection-end-line="124" selection-end-column="8" />
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="2948">
+            <caret line="134" column="24" lean-forward="false" selection-start-line="134" selection-start-column="24" selection-end-line="134" selection-end-column="24" />
             <folding />
           </first_editor>
           <second_editor />
@@ -390,8 +849,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="1848">
-            <caret line="56" column="421" lean-forward="true" selection-start-line="56" selection-start-column="421" selection-end-line="56" selection-end-column="421" />
+          <first_editor relative-caret-position="66">
+            <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
             <folding />
           </first_editor>
           <second_editor />
